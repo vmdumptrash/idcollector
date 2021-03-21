@@ -1,0 +1,22 @@
+{
+  "name": "idcollector",
+  "version": "1.0.0",
+  "description": "Don't read my descriptions, stalker!",
+  "main": "idbot.js",
+  "scripts": {
+    "test": "/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "binary-search-tree": "^0.2.6",
+    "discord.js": "^11.5.1"
+  }
+}
