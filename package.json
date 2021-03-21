@@ -1,6 +1,5 @@
 {
   "requires": true,
-  "lockfileVersion": 1,
   "dependencies": {
     "@types/node": {
       "version": "14.14.35",
