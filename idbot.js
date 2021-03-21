@@ -1,6 +1,6 @@
 const DiscordJS = require('discord.js');
 TOKEN = "ODIyNjQ4NzQzNDkyMDU5MTY5.YFYpwA.J2iKk4kK5z-ffMQS3doA4zPqbs8"
-TOKEN = process.argv[2]
+//TOKEN = process.argv[2]
 
 const BinarySearchTree = require('binary-search-tree').BinarySearchTree
 
